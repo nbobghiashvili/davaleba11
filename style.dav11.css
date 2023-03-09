@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+.container1{
+    width: 400px;
+    height: 500px;
+    background-color:whitesmoke;
+    margin-left: 500px;
+    margin-top: 150px;
+}
+img{
+    margin-left: 110px;
+    margin-top: 50px;
+}
+p{
+    float: right 60px;
+}
